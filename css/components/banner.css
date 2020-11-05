@@ -1,0 +1,35 @@
+.banner{
+  width: 100%;
+  height: 60vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: none;
+}
+
+h1{
+  color: white;
+  text-shadow: 0 0 10 darkgrey;
+}
+
+ p {
+  color: white;
+  text-shadow: 0 0 10 darkgrey;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+
+.btn-primary {
+    display: inline-block;
+    background-color: #1EDD88;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+}
